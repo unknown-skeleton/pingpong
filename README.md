@@ -1,2 +1,2 @@
 # pingpong
-pingpong
+classic pingpong game
